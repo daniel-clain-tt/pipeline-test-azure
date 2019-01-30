@@ -1,3 +1,5 @@
+[![Build Status](https://talktalktv.visualstudio.com/Online/_apis/build/status/daniel-clain-tt.pipeline-test-azure?branchName=master)](https://talktalktv.visualstudio.com/Online/_build/latest?definitionId=343&branchName=master)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
