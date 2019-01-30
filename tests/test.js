@@ -10,7 +10,7 @@ describe('String', function () {
         });
         it('should not return -1 when the substring is present', function () {
             var myString = 'test';
-            assert.notEqual(-1, myString.indexOf('q'));
+            assert.notEqual(-1, myString.indexOf('t'));
         });
     });
 });
